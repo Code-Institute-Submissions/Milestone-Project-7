@@ -19,7 +19,7 @@ I have been asked to design a website to showcase ceramic artwork for Sculptor J
 
 UX Centered Design Prep
 
-Please find UX_for_milestone_project.pdf in the read me folder.
+Please find UX_for_milestone_project.pdf
 
 
 Features
